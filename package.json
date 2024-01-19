@@ -1,0 +1,18 @@
+{
+  "name": "ROAS Digital",
+  "version": "1.0.0",
+  "description": "assignment of ROAS Digital",
+  "main": "nil",
+  "scripts": {
+    "test": "junior web developement "
+  },
+  "repository": {
+    "type": "git",
+    "url": "nil"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "dinesh",
+  "license": "ISC"
+}
