@@ -1,10 +1,10 @@
 {
-  "name": "ROAS Digital",
+  "name": "digital",
   "version": "1.0.0",
   "description": "assignment of ROAS Digital",
   "main": "nil",
   "scripts": {
-    "test": "junior web developement "
+    "test": "junior web developement"
   },
   "repository": {
     "type": "git",
