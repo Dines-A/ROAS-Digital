@@ -2,8 +2,11 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      listStyleImage: {
+        store: 'url("./Source/listpng.png")',
+      },
+    },
   },
   plugins: [],
-}
-
+};
