@@ -14,5 +14,8 @@
     "keyword"
   ],
   "author": "dinesh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.5.11"
+  }
 }
